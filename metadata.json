@@ -1,0 +1,8 @@
+{
+  "name": "САНДРА Beauty Salon",
+  "description": "Премиум салон красоты в Красносельском районе Санкт-Петербурга. 14 лет опыта, более 50 мастеров.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
