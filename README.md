@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/ac1602a4-3cd1-4c62-b65d-37cfb
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+Demo: [https://aura-lilac-ten.vercel.app/]
